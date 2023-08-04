@@ -44,7 +44,7 @@ The Heart Disease Prediction Website Project aims to create a user-friendly web 
 
 8. The prediction result is sent back to the frontend.
 
-9. The website displays the prediction result along with any visualizations (if applicable) on a new page.
+9. The website displays the prediction result.
 
 ## Note: 
 The success of the prediction depends on the quality and size of the dataset used to train the Decision Tree model. Regular updates and improvements are essential to ensure the model remains accurate and relevant.
